@@ -10,3 +10,15 @@ It could only be fixed by takinng away the container class.This aligned it to th
 I tried to use the float sytem on my hoe page, couldn't get it working.
 If I had more time I would've started again furthering my knowledge of spacing within the container sytem provided in bootstrap. 
 Next time I will use a template if allowed in order to increase complexity and streamline my workflow.
+
+UPDATES
+
+Updating for homework due 8-5
+Tried to implement php for contact page, float boxes for about me cards, resumne and new projects to portfolio.
+Was only able to implement the last two.
+Next time I WILL accomplish the former.
+
+CHALLENGES
+
+The cards didn't align no matter what I did so I'll do them again.
+I couldn't learn enough php in the timeframe allowed in order to impkement a working contacts page. I will do so and reinstitute it. 
