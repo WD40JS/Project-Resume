@@ -11,6 +11,9 @@ I tried to use the float sytem on my hoe page, couldn't get it working.
 If I had more time I would've started again furthering my knowledge of spacing within the container sytem provided in bootstrap. 
 Next time I will use a template if allowed in order to increase complexity and streamline my workflow.
 
+Updates 10-1
+Added better styling and a completly new resume(took most of my time), contains git, portfolio and linkedin page on resume as well as a cover page. 
+
 UPDATES
 
 Updating for homework due 8-5
@@ -18,7 +21,18 @@ Tried to implement php for contact page, float boxes for about me cards, resumne
 Was only able to implement the last two.
 Next time I WILL accomplish the former.
 
+Updates 10-1
+Implemented challenges except contacts page as I have a mail.to function for emailing me directly. Streamlined design and constricted margins to space adequately.
+Added styling in-line due to difficulties with implementing inside of css file.
+
+
+
 CHALLENGES
 
 The cards didn't align no matter what I did so I'll do them again.
 I couldn't learn enough php in the timeframe allowed in order to impkement a working contacts page. I will do so and reinstitute it. 
+
+Update 10-1
+Would like to implement styling inside of css file seperately for cleaner code.
+Would like to implement more direct links for projects. 
+May add an about me as the first page in ordet to give incite before linking to projects.
